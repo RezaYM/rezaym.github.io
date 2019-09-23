@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My HomePage"
+title                    : "Reza Yousefi Maragheh"
 title_separator          : "-"
 name                     : &name "Reza Yousefi Maragheh"
-description              : &description "personal description"
+description              : &description "Research and Teaching Assistant at the University of Illinois at Urbana-Champaign"
 url                      : https://rezaym.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rezatm/rezaym.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Reza Yousefi Maragheh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Graduate Research and Teaching Assistant at UIUC"
+  location         : "Urbana-Champaign, IL"
+  employer         : "University of Illinois at Urbana-Champaign"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "ysfmrgh2 at illinois dot edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,26 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rezaym"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/reza-yousefi-maragheh-43582854"
+  orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
-  xing             :
+  wiki.illinois    : "https://wiki.illinois.edu/wiki/display/~ysfmrgh2"
   youtube          :
-  wikipedia        :
-
+  handshake        : "https://illinois.joinhandshake.com/users/5621682" 
 
 # Reading Files
 include:
