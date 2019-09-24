@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Research Interests:
+# Interests:
 * Pricing and Revenue Management
 * Online Learning and Multi-Armed Bandit Problems
 * Application of Deep Learning in Revenue Management Settings
