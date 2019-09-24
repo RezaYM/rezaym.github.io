@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign (UIUC)\\
+* University of Illinois at Urbana-Champaign (UIUC)
+
 Ph.D. in Industrial Engineering.; Track: Data Analytics
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
