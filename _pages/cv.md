@@ -37,7 +37,7 @@ Skills
 * **Optimization Modeling and Solvers**: Pyomo, AMPL, Gurobi, BARON, CPLEX.
 * **Languages** :English: Fluent, Azerbaijani: Native, Persian: Native Turkish: Experienced, Arabic: Elementary.
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
