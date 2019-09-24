@@ -27,6 +27,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
+  wiki.illinois          :
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -58,9 +59,10 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+  facebook:
   username               :
   app_id                 :
+  wiki.illinois          :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -84,7 +86,7 @@ author:
   avatar           : "profile.png"
   bio              : "Graduate Research and Teaching Assistant at UIUC"
   location         : "Urbana-Champaign, IL"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         : "University of Illinois"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ysfmrgh2 at illinois dot edu"
