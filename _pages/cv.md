@@ -33,7 +33,7 @@ Work experience
   
 Skills
 ======
-* **Coding**: Python, R, SQL, $$\latex$$,  Git.  
+* **Coding**: Python, R, SQL, $$\LaTeX$$,  Git.  
 * **Optimization Modeling and Solvers**: Pyomo, AMPL, Gurobi, BARON, CPLEX.
   * Sub-skill 2.1
   * Sub-skill 2.2
