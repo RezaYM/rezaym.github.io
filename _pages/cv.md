@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana-Champaign (UIUC)
-\tab Ph.D. in Industrial Engineering.; Track: Data Analytics
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D.** Industrial Engineering; Track: Data Analytics; University of Ilinois at Urbana-Champaign, May 2021 (expected).
+* **M.S.** Industrial Engineering, Sharif University of Technologu, 2015.
+* **Ph.D** Industrial Engineering, University of Tehran, 2013 
 
 Work experience
 ======
