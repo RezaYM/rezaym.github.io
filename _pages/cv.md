@@ -35,10 +35,7 @@ Skills
 ======
 * **Coding**: Python, R, SQL, $$\LaTeX$$,  Git.  
 * **Optimization Modeling and Solvers**: Pyomo, AMPL, Gurobi, BARON, CPLEX.
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages** :English: Fluent, Azerbaijani: Native, Persian: Native Turkish: Experienced, Arabic: Elementary.
 
 Publications
 ======
