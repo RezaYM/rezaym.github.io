@@ -15,7 +15,7 @@ Education
 * **M.S.** Industrial Engineering, Sharif University of Technology, 2015.
 * **Ph.D** Industrial Engineering, University of Tehran, 2013.
 
-Work experience
+Research Experience
 ======
 * Research Assistant at UIUC ( May 2016 - Present):
   *  Working on:
