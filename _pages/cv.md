@@ -19,9 +19,9 @@ Work experience
 ======
 * Research Assistant at UIUC ( May 2016 - Present):
   *  Working on:
-    * Revenue Management and Choice Modeling in Presence of Context Effects,
-    * Dynamic Learning of Customer Choice Models,
-    * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
+     * Revenue Management and Choice Modeling in Presence of Context Effects,
+     * Dynamic Learning of Customer Choice Models,
+     * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
   * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
 * Research Assistant at Sharif University of Technology (Jan 2014-Jul 2015):
