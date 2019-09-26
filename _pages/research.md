@@ -24,8 +24,10 @@ author_profile: true
 ## Revenue Management and Customer Pattern Recognition:
 * R. Y. Maragheh, X. Chen, A. Chronopoulou, J. M. Davis, *Revenue Management in Prsenece of Context Effects*, Under submission to Operations Rsearch.
 * R. Y. Maragheh, A. Chronopoulou, J. Davis, [*A Customer Choice Model for Estimating the Halo Effect*](https://arxiv.org/abs/1805.01603), Presented at 2017 Informs Annual Meeting, Houston, Texas, 2017.
+
 ## Machine learning and Deep Learning
 * R.Y. Maragheh, Easing Optimization of Ackley Function with overparameterization Using Neural Nets, Working Paper.
+
 ## Policy Design
 * M. Modarres, M. Feizabadi, and R. Y. Maragheh, [*A Dynamic Programming Approach forInvestment Problem with Stochastic
 Number of Investment Chances*](https://www.researchgate.net/publication/260144937_A_dynamic_programming_approach_for_investment_problem_with_stochastic_number_of_investment_chances), in Tenth International Industrial Engineering Conference, Tehran, Iran, 2014.
