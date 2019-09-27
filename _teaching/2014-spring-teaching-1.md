@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Production Planning & Control"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/IE360
+venue: "University of Illinois at Urbana Champaign,  Department of Industrial & Enterprise Systems Engineering"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Role:** Teaching Assistant.
 
-Heading 1
-======
+**What my lab sessions are about:** Use of data analytics tools and optimization modeling in addressing problems in planning and control of facilities, human resources, projects, products, material, and information in production systems.
 
-Heading 2
-======
 
-Heading 3
-======
+# Useful contents for students
