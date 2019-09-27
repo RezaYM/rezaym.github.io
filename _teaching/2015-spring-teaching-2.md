@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Facilities Planning and Design"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/IE360
+venue: "University of Illinois at Urbana Champaign, Department of Industrial & Enterprise Systems Engineering"
+date: Fall 2019
 ---
+**What my lab sessions are about:** Facilities Planning and Design: Optimization Modeling for problems in manufacturing, warehousing, and office planning.
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+**Role:** Taching Assistant, Teaching Lab Sessions
 
-Heading 2
-======
-
-Heading 3
-======
+# Useful Content for Students
