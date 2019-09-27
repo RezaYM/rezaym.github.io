@@ -10,4 +10,4 @@ venue: "University of Illinois at Urbana Champaign,  Department of Industrial & 
 
 **Role:** Teaching Assistant.
 
-# Useful contents for students
+# Useful content for students
