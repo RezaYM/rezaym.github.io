@@ -2,7 +2,7 @@
 title: "Production Planning & Control"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/IE360
+permalink: /teaching/IE361
 venue: "University of Illinois at Urbana Champaign,  Department of Industrial & Enterprise Systems Engineering"
 ---
 
