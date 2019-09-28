@@ -1,7 +1,7 @@
 ---
 title: "Stochastic Processes"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/ST
 venue: "Sharif University of Technology, Department of Industrial Engineering"
 ---
