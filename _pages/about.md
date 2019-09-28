@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Reza Yousefi Maragheh, a Ph.D. student in Industrial Engineering at ISE department of University of Illinois at Urabana-Champaign. 
+I am Reza Yousefi Maragheh, a Ph.D. student in Industrial Engineering at Department of [Industrial & Enterprise Systems Engineering](https://ise.illinois.edu/) of [University of Illinois at Urabana-Champaign](https://illinois.edu/). 
 
 In my github webpage you will find the following:
 * My [Resarch](https://rezaym.github.io/Research/) and my [Projects](https://rezaym.github.io/projects/); also my [CV](https://rezaym.github.io/cv/).
