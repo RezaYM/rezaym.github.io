@@ -15,4 +15,4 @@ Of course, these cannot be counted as a comprehensive source in the discussed su
 
 We are engineers, and the spirit of these writings is to provide a just "what-is-needed-to-know?" type of source with the objective of using the materials in a given engineering application. So, I will just state the things which are needed. 
 
-* In [This page](https://rezaym.github.io/DLML/Linear_Algebra) we talk about basic concepts and operations from Linear Algebra which are widely used in ML and DL applications. If you have passed classes in linear algebra or linear programming you may skip this section.
+* **Basics of Linear Algebra**: In [This page](https://rezaym.github.io/DLML/Linear_Algebra) we talk about basic concepts and operations from Linear Algebra which are widely used in ML and DL applications. If you have passed classes in linear algebra or linear programming you may skip this section.
