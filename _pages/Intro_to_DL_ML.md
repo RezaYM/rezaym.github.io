@@ -2,10 +2,4 @@ This set of pages is written with the objective of providing a quick introductor
 
 Of course, these cannot be counted as a comprehensive source in the discussed subjects, but they are a good starting point for delving into the materials. 
 
-We are engineers, and the spirit of these writings is to provide a just "what-is-needed-to-know?" type of source with the objective of using the materials in a given engineering application. So, I will just state the things which are needed. For example, on this page, I am only stating the essential knowledge of Linear Algebra needed for simple machine learning and deep learning problems. 
-
-Basic math knowledge
-First I will provide some introductory materials about the underlying mathematics of the problems we are focusing on:
-
-The basic Linear Algebra knowledge needed can be found here. If you have passed classes in linear algebra or linear programming you may skip this section.
-
+We are engineers, and the spirit of these writings is to provide a just "what-is-needed-to-know?" type of source with the objective of using the materials in a given engineering application. So, I will just state the things which are needed. For example, on [this page](https://rezaym.github.io/DLML/Linear_Algebra), I am only stating the essential knowledge of Linear Algebra needed for simple machine learning and deep learning problems. 
