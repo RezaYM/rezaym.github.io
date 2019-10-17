@@ -24,3 +24,9 @@ author_profile: true
 * Mixed Integer Program is proposed to take into account timing, location, carrier constraints, and city demographics.
 
 * Near-optimal solutions provided by Linear relaxation to the problem.
+
+### Choice Pattern Recognition for Online Customers of a Hotel Chain
+
+* Fitted different models and obtained the MLE.
+* The comparison made based on descriptive indices like AIC and BIC and Predictive Performance is measured by tests like the Chi-Square test.
+* With the fitted models, choice patterns are analyzed for different customer segments.
