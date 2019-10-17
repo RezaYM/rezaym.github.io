@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Part of Thesis Research: Learning the Shifts in Choice Patterns for a Data Set Including Transactions of Food Products
+### Learning the Shifts in Choice Patterns for a Data Set Including Transactions of Food Products (Part of Thesis Research): 
 
 * Fitting, tuning, and evaluating different choice models including Multinomial Logistic Regression and its extensions, Mixed Choice Models, and Markov-Based Choice Scenarios is done using sklearn and pyomo.
 
