@@ -53,6 +53,6 @@ See [here](https://rezaym.github.io/teaching/) for details.
 * 2nd and 4th Top Ranked among 8,000 Candidates in National Exam for the Master of Science Programs in Financial Engineering and Industrial Engineering, Awarded by Sanjesh.org.
 
 ### Service and leadership
-* Member of Engineering Graduate Advisory Committee ([EGSAC](http://publish.illinois.edu/engr-egsac/2018-2019-committee-members/)) Grainger College of Engineering, Aug 2018- June 2019.
+* Member of Engineering Graduate Advisory Committee ([EGSAC](http://publish.illinois.edu/engr-egsac/2018-2019-committee-members/)) at Grainger College of Engineering, Aug 2018- June 2019.
 * Co-founder of Pouyandegan DaneshPajooh Mehr, May 2014-Present. Pouyandegan DaneshPajooh Mehr is an NGO that focuses on providing educational and financial support for talented children with a geographical focus on the Northwest of Iran.
 * Member of Central Council at Scientific Association of Industrial Engineering Department at University of Tehran, Sep 2010-Sep 2010. 
