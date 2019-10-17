@@ -14,3 +14,13 @@ author_profile: true
 * Heterogeneity in customer types is explored by fitting different unsupervised learning methods. 
 
 * Best fitted models are used to provide recommendations in inventory and pricing management by solving a Conic Quadratic optimization problem with Gurobi solver under pyomo.
+
+### Finding Global Optima of the likelihood function of Multinomial Logit Model (Equivalently Multinomial Logistic Regression)
+
+* Tuning and performance comparison of *Gradient Descent*, *Coordinate Gradient Descent*, *Stochastic Gradient Descent*, *Barzilai-Borwein*, and *BFGS* methods is done.
+
+### Near Optimal Hub-selection and Route Design; a Postal Company Case
+
+* Mixed Integer Program is proposed to take into account timing, location, carrier constraints, and city demographics.
+
+* Near-optimal solutions provided by Linear relaxation to the problem.
