@@ -9,7 +9,7 @@ author_profile: true
 
 At [UIUC](https://illinois.edu/), [ISE](https://ise.illinois.edu/) Department;
 
-**What my lab sessions are about:** Facilities Planning and Design: Optimization Modeling for problems in manufacturing, warehousing, and office planning; [Course Page](https://rezaym.github.io/teaching/IE360/).
+**What my lab sessions are about:** Facilities Planning and Design: Optimization Modeling for problems in manufacturing, warehousing, and office planning; [Course Page](https://rezaym.github.io/teaching/IE360/). [Piazza]
 
 # Production Planning & Control, IE361
 
