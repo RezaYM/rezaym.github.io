@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#### Education
+### Education
 * **Ph.D.** Industrial Engineering; Track: Data Analytics; University of Ilinois at Urbana-Champaign, May 2021 (expected).
 * **M.S.** Industrial Engineering, Sharif University of Technology, 2015.
 * **Ph.D** Industrial Engineering, University of Tehran, 2013.
