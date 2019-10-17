@@ -12,7 +12,7 @@ redirect_from:
 In this page, I will present a very basic version of the online learning problem. By going through this page, 
 you will  have a sense about the problem and maybe start exploring harder versions by yourself.
 
-Note 1: The materials presented here, is mostly based on the "Online Learning" course (IE498) taught by  Professor Yuan Zhou and
+**Note 1**: The materials presented here, is mostly based on the "Online Learning" course (IE498) taught by  Professor Yuan Zhou and
 my own knowledge of this topic. 
 
 Problem Statement
