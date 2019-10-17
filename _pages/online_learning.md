@@ -15,5 +15,5 @@ you will  have a sense about the problem and maybe start exploring harder versio
 **Note 1**: The materials presented here, is mostly based on the "Online Learning" course (IE498) taught by  Professor Yuan Zhou and
 my own knowledge of this topic. 
 
-Problem Statement
-Suppose there are two slot machines: Machine 1 and Machine 2.
+#### Problem Statement
+Suppose there are two slot machines: Machine 1 and Machine 2. Whenever, the machine $$i$$ is played, a random reward between $$0$$ and $$1$$ of $$D_i$$ is obtained, such that 
