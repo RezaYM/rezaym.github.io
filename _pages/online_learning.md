@@ -17,3 +17,12 @@ my own knowledge of this topic.
 
 #### Problem Statement
 Suppose there are two slot machines: Machine 1 and Machine 2. Whenever, the machine $$i$$ is played, a random reward between $$0$$ and $$1$$ of $$D_i$$ is obtained, such that 
+
+$$\mu_i=\E[D_i]$$, $$i=1,2$$
+
+The goal is to detect the arm with higher expected value (higher $$\mu_i$$) is to play each arm equal times, say $$T/2$$ times for a given time horizon of $$T$$, and output the arm with the better empirical mean. The following algorithm uses this method:
+
+Step 1: Play arm 1 $$T/2$$ times and then play arm 2 $$T/2$$ times.
+Step 2: Calculate empirical means $$\hat \mu_1,\hat \mu_2$$ and output $$\arg\min_{i=1,2}\{\hat \mu_i\}$$.
+
+When performing algorithm one, its success in detecting the better arm is dependent on the distance between the values of $$\mu_1$$ and $$\mu_2$$. In other words, if the distance is large enough, then our confidence about the result of ALG1 is more than the case when $$\mu_1$$ and $$\mu_2$$ are close to each other. For instance, when $$\mu_1 =0.1$$ and $$\mu_2 = 0.8$$ we can be sure about the correctness of output in ALG1 more than the situation where $$\mu_1 = 0.49$$ and $$\mu_2 = 0.51$$.
