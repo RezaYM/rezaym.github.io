@@ -21,11 +21,11 @@ redirect_from:
   * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
   * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
-* Research Assistant at Sharif University of Technology (Jan 2014-Jul 2015):
+* My Research for my master thesis at Sharif University of Technology (Jan 2014-Jul 2015):
   * Game Theoretic Analysis of Stochastic Financial Systems,
   * Policy Design,
   * Mechanism Design.
-  * Supervisor: Professor Mohammad Modarres.
+  * Supervisor for my master Thesis: Professor Mohammad Modarres.
   
 ### Skills
 * **Coding**: Python, R, SQL, $$\LaTeX$$,  Git.
@@ -42,8 +42,8 @@ Please see [here](https://rezaym.github.io/projects/) for details.
   * Use of data analytics tools and optimization modeling in addressing problems in planning and control of facilities, human resources, projects, products, material, and information in production systems.
 * **Facility Design and Planning, IE360**, UIUC, Fall 2019: 
   * Facilities Planning and Design: Optimization Modeling for problems in manufacturing, warehousing, and office planning.
-* **Applied Stochastic Processes**, Fall 2014: 
-  * covering concepts from probability theory and applied stochastic processes.
+* Final Exam review session for **Applied Stochastic Processes**: 
+  * covering concepts from probability theory and applied stochastic processes in a review session for final exam.
 See [here](https://rezaym.github.io/teaching/) for details.
 
 ### Honors and Awards
