@@ -15,7 +15,7 @@ redirect_from:
 * **Ph.D** Industrial Engineering, University of Tehran, 2013.
 
 ### Research Experience (also check-out [here](https://rezaym.github.io/Research/) )
-* Research Assistant at UIUC ( May 2016 - Present):
+* Research Assistant at UIUC ( Aug 2015 - Present):
   * Revenue Management and Choice Modeling in Presence of Context Effects,
   * Dynamic Learning of Customer Choice Models,
   * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
@@ -42,7 +42,7 @@ Please see [here](https://rezaym.github.io/projects/) for details.
   * Use of data analytics tools and optimization modeling in addressing problems in planning and control of facilities, human resources, projects, products, material, and information in production systems.
 * **Facility Design and Planning, IE360**, UIUC, Fall 2019: 
   * Facilities Planning and Design: Optimization Modeling for problems in manufacturing, warehousing, and office planning.
-* Final Exam review session for **Applied Stochastic Processes**: 
+* Final Exam review sessions for **Applied Stochastic Processes**: 
   * covering concepts from probability theory and applied stochastic processes in a review session for final exam.
 See [here](https://rezaym.github.io/teaching/) for details.
 
