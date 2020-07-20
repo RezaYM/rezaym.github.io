@@ -21,6 +21,12 @@ redirect_from:
   * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
   * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
+* Data Science Inten at Walmart Labs (June 2020- Present):
+  * Recommender System Optimization by Considering Context Effects in e-Commerce,
+  * Revenue per Click Optimization,
+  * Analyzing Product Substitution Patterns,
+  * Context Design for Sponsored Product in e-Commerce
+
 * My Research for my master thesis at Sharif University of Technology (Jan 2014-Jul 2015):
   * Game Theoretic Analysis of Stochastic Financial Systems,
   * Policy Design,
