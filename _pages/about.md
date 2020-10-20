@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Reza Yousefi Maragheh, a Ph.D. student in Industrial Engineering at Department of [Industrial & Enterprise Systems Engineering](https://ise.illinois.edu/) of [University of Illinois at Urabana-Champaign](https://illinois.edu/). 
+I am Reza Yousefi Maragheh, a last year Ph.D. student of Industrial Engineering at Department of [Industrial & Enterprise Systems Engineering](https://ise.illinois.edu/) of [University of Illinois at Urabana-Champaign](https://illinois.edu/). Currently, I am also a part-time Data Scientist at [WalmartLabs](https://www.linkedin.com/company/walmartglobaltech/mycompany/) and I am doing research about product recommendation systems there while writing my Ph.D. dissertation.
 
 In my github webpage you will find the following:
 * My [Resarch](https://rezaym.github.io/Research/) and my [Projects](https://rezaym.github.io/projects/); also my [CV](https://rezaym.github.io/cv/).
