@@ -21,7 +21,7 @@ redirect_from:
   * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
   * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
-* Data Science Inten at Walmart Labs (June 2020- Present):
+* Data Scientist at Walmart Labs (Sep 2020- Present)/Data Science Intern(June 2020- Aug 2020):
   * Recommender System Optimization by Considering Context Effects in e-Commerce,
   * Revenue per Click Optimization,
   * Analyzing Product Substitution Patterns,
@@ -36,6 +36,7 @@ redirect_from:
 ### Skills
 * **Coding**: Python, R, SQL, $$\LaTeX$$,  Git.
 * **Python Libraries**: sklearn, pandas, scipy, numpy, matplotlib.
+* **Big Data Tech**: Hadoop, Mapreduce, Hive, Pyspark.
 * **Optimization Modeling and Solvers**: Pyomo, AMPL, Gurobi, BARON, CPLEX.
 * **Languages** :English: Fluent, Azerbaijani: Native, Persian: Native Turkish: Experienced, Arabic: Elementary.
 
