@@ -1,15 +1,18 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /PROJECTS/
 author_profile: true
 ---
 
 ### Learning the Shifts in Choice Patterns for a Data Set Including Transactions of Food Products (Part of Thesis Research): 
-* Fitting, tuning, and evaluating different choice models including Multinomial Logistic Regression and its extensions, Mixed Choice Models, and Markov-Based Choice Scenarios was done using sklearn and pyomo.
-* Shifts in demand patterns for different sets of choice options were measured by proposing and fitting a new model that incorporates context effects.
-* Heterogeneity in customer types was explored by fitting different unsupervised learning methods. 
-* Best fitted models were used to provide recommendations in inventory and pricing management by solving a Conic Quadratic optimization problem with Gurobi solver under pyomo.
+* Fitting and evaluating (using metrics like MRR, NDCG, $\chi^2$, KL) different ML models including Multinomial Logistic Regression and its extensions, Mixed Choice Models, and Markov-Based Models was done using sklearn and pyomo.
+* Demand patterns by proposing and fitting new models incorporating context effects. Heterogeneity in customer types was explored using unsupervised learning models. 
+* Optimal Recommendations were obtained by solving a Conic Quadratic optimization problem with Gurobi solver under pyomo Gorubi.
+
+### Revenue per Click Optimization in Product Recommendation Modules in E-Commerce
+* An ML model were designed which uses product's features and click/impression history to rank the candidates in given recommendation models,
+* Assortment Optimization Problem (combinatorial) was solved in order to obtain the best set set for recommendations with max expected revenue per click. 
 
 ### Finding Global Optima of the likelihood function of Multinomial Logit Model (Equivalently Multinomial Logistic Regression)
 * Tuning and performance comparison of *Gradient Descent*, *Coordinate Gradient Descent*, *Stochastic Gradient Descent*, *Barzilai-Borwein*, and *BFGS* methods was done.
