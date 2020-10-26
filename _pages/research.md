@@ -16,13 +16,16 @@ author_profile: true
 {% endfor %}
 
 ### Interests:
+* Recommendation Systems,
 * Pricing and Revenue Management,
-* Online Learning and Multi-Armed Bandit Problems,
+* Online Learning and Multi-Armed Bandit Settings,
 * Application of Deep Learning in Revenue Management Settings,
 * Optimization of Deep Neural Nets.
 
-### Revenue Management and Customer Pattern Recognition:
-* R. Y. Maragheh, X. Chen, A. Chronopoulou, J. M. Davis, *Revenue Management in Prsenece of Context Effects*, Under submission to Operations Rsearch.
+### Recommendation Systems:
+* R. Y. Maragheh, X. Chen, J. M. Davis, Jason Cho, Sushant Kumar, *Choice Modeling and Assortment Optimization inthe Presence of Context Effects*, Under submission to Management Science.
+* R. Y. Maragheh, X. Chen, Luyi Ma, Chuanwei Ruan, Jason Cho, Sushant Kumar, *Set Dependent Ranking Model: By Considering Substitution Patterns and Contextual Effects*, Under Submission to SIGIR2020.
+* R. Y. Maragheh, [*Assortment Optimization/Competition under Context Effects*](https://www.abstractsonline.com/pp8/#!/9022/session/2572),  Session at Informs 2020.
 * R. Y. Maragheh, A. Chronopoulou, J. Davis, [*A Customer Choice Model for Estimating the Halo Effect*](https://arxiv.org/abs/1805.01603), Presented at 2017 Informs Annual Meeting, Houston, Texas, 2017.
 
 ### Machine learning and Deep Learning
