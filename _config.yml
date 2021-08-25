@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reza Yousefi Maragheh"
 title_separator          : "-"
 name                     : &name "Reza Yousefi Maragheh"
-description              : &description "Data Science Intern at Walmart Labs; Research and Teaching Assistant at the University of Illinois at Urbana-Champaign"
+description              : &description "Senior Data Scientist at Walmart Labs"
 url                      : https://rezaym.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rezatm/rezaym.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Reza Yousefi Maragheh"
   avatar           : "IMG_0972.jpg"
-  bio              : "Graduate Research and Teaching Assistant at UIUC"
-  location         : "Urbana-Champaign, IL"
-  employer         : "University of Illinois"
+  bio              : "Ph.D. Senior Data Scientist at Walmart Labs"
+  location         : "Sunnyvale, CA"
+  employer         : "Walmart Labs-Personalization Team"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ysfmrgh2 at illinois dot edu"
+  email            : 
   researchgate     :  
   uri              :
   bitbucket        :
