@@ -14,18 +14,22 @@ redirect_from:
 * **M.S.** Industrial Engineering, Sharif University of Technology, 2015.
 * **Ph.D** Industrial Engineering, University of Tehran, 2013.
 
-### Research Experience (also check-out [here](https://rezaym.github.io/Research/) )
-* Research Assistant at UIUC ( Aug 2015 - Present):
-  * Revenue Management and Choice Modeling in Presence of Context Effects,
-  * Dynamic Learning of Customer Choice Models,
-  * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
-  * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
-
-* Data Scientist at Walmart Labs (Sep 2020- Present)/Data Science Intern(June 2020- Aug 2020):
-  * Recommender System Optimization by Considering Context Effects in e-Commerce,
+### Work Experience (also check-out [here](https://www.linkedin.com/in/reza-yousefi-maragheh/) )
+* Data Scientist at Walmart Labs (Sep 2020- May 2021)/Data Science Intern(June 2020- Aug 2020):
+  * Recommender System Optimization,
+  * Customer Intent Inference,
   * Revenue per Click Optimization,
   * Analyzing Product Substitution Patterns,
   * Context Design for Sponsored Product in e-Commerce
+
+
+### Research Experience (also check-out [here](https://rezaym.github.io/Research/) )
+* Research Assistant at UIUC ( Aug 2015 - July 2021):
+  * Choice Modeling and recommendation Optimization in Presence of Context Effects,
+  * Optimization-based imprevement of Recommender Systems,
+  * Dynamic Learning of Customer Choice Models,
+  * Easing Optimization of Non-Convex Functions with overparameterization Using Neural Nets.
+  * Supervisor: Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
 * My Research for my master thesis at Sharif University of Technology (Jan 2014-Jul 2015):
   * Game Theoretic Analysis of Stochastic Financial Systems,
@@ -34,7 +38,7 @@ redirect_from:
   * Supervisor for my master Thesis: Professor Mohammad Modarres.
   
 ### Skills
-* **Coding**: Python, R, SQL, $$\LaTeX$$,  Git.
+* **Coding**: Python, R, SQL, Bash script, $$\LaTeX$$,  Git.
 * **Python Libraries**: sklearn, pandas, scipy, numpy, matplotlib.
 * **Big Data Tech**: Hadoop, Mapreduce, Hive, Pyspark.
 * **Optimization Modeling and Solvers**: Pyomo, AMPL, Gurobi, BARON, CPLEX.
