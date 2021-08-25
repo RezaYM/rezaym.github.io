@@ -15,7 +15,7 @@ redirect_from:
 * **Ph.D** Industrial Engineering, University of Tehran, 2013.
 
 ### Work Experience (also check-out [here](https://www.linkedin.com/in/reza-yousefi-maragheh/) )
-* Data Scientist at Walmart Labs (Sep 2020- May 2021)/Data Science Intern(June 2020- Aug 2020):
+* Sr Data Scientist at Walmart Labs (Aug 2021- Present)/Data Scientist(Sep 2020-May 2021)
   * Recommender System Optimization,
   * Customer Intent Inference,
   * Revenue per Click Optimization,
