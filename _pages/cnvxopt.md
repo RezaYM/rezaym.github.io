@@ -29,4 +29,6 @@ $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r
 * *Convex Hull* of set $$C$$: convex combination of all points in $$C$$. 
 * **Notes**: Difference between convex hull and affine hull is coeffcient $$\theta_i$$ of a point $$x_i$$. In convex hull it is postive; in affine hull we have no restriction on positivity. 
 * *Cone*: A set $$C$$ is a cone if $$\theta x \in C$$, $$\forall x \in C$$. *Conic Combination* can be defined equivalently.
-* *Convex Cone*: if both convex and cone. 
+ * *Convex Cone*: if both convex and cone. 
+ * *Conic hull* of set $$C$$: set of all conic combinations of points in $$C$$:
+$$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dots, k\}$$
