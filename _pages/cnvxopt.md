@@ -41,4 +41,4 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
   * $$P$$ determines how distorted the elipsoid is w.r.t. a ball. 
   * $$\sqrt{\lambda_i}$$ is the length of the semi-axis along each eigenvector of $$P$$, and $$\lambda_i$$ is the relevant eigenvalue. 
   * A ball is an elipsoid with $$P=I$$. 
-* *Norm Cone*: for any norm, *Norm Cone* is defined as: $$C = \{(x,t)\|| \|x\|\leq t\}$$.
+* *Norm Cone*: for any norm, *Norm Cone* is defined as: $$C = \{(x,t)\| \|x\|\leq t\}$$.
