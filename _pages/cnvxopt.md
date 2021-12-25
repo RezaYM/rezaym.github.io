@@ -34,3 +34,6 @@ $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r
 $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dots, k\}$$
 * *hyperplane*: $$\{x\|a^T x = b\}$$.
 * *halfspace*: $$\{x\|a^T x \leq b\}$$
+  * halfspaces arec onvex. They are not affine. Not necessarily cone. Not necessarily subspace. 
+  * A hyperplane is actually the set of all points $$x$$, such that $$x_x_0$$ is orthoginal to $$a$$; where $$x_0$$ is a point on the hyperplane. 
+* *Euclidean Ball*: $$B(x_c, r) = \{x \| \|x - x_c\|_2 \leq r\}$$
