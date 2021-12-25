@@ -10,5 +10,5 @@ author_profile: true
 
 
 * *Affine combination of points*: $$\theta_1 x_1 + \theta_2 x_2 + \dots + \theta_k x_k$$ is the affine combination of points $$x_1, x_2, \dots, x_k$$, with $$\theta_1 + \theta_2 + \dots + \theta_k = 1$$.
-
 * *Subspace*: is closed under sum and scalar multiplication. 
+* *Affine hull* of a set $$C\subseteq \mathbb{R}^n$$: smallest affine set containing $$C$$: $$\mathbb{aff} C = \{\theta_1 x_1 + \dots + \theta_k x_k\| \theta_1 + \dots + \theta_k = 1\}$$.
