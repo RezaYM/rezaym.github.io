@@ -13,3 +13,4 @@ author_profile: true
 * *Subspace*: is closed under sum and scalar multiplication. 
 * *Affine hull* of a set $$C\subseteq \mathbb{R}^n$$: smallest affine set containing $$C$$: $$\mathbb{aff} C = \{\theta_1 x_1 + \dots + \theta_k x_k\| \theta_1 + \dots + \theta_k = 1\}$$.
 * *Affine Dimension* of set $$C$$: smallest affine set containing C. 
+  * $$C = \{x \in \mathbb{R}^2 | x_1^2 + x_2^2 = 1\}$$: its affine hull is all of $$\mathbb{R}^2$$ and its affine dimension is 2. 
