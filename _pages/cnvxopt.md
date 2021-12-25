@@ -36,8 +36,8 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
 * *halfspace*: $$\{x\|a^T x \leq b\}$$
   * halfspaces arec onvex. They are not affine. Not necessarily cone. Not necessarily subspace. 
   * A hyperplane is actually the set of all points $$x$$, such that $$x-x_0$$ is orthoginal to $$a$$; where $$x_0$$ is a point on the hyperplane. 
-* *Euclidean Ball*: $$B(x_c, r) =$$ $$ \{ x \| \|x - x_c\| \leq r\} = \{x\| (x-x_c)^T (x_x_c) \leq r^2 \}$$,
-* *Elipsoid*: $$\Epsilon = $$ $$\{ x\| (x-x_c)^T P^{-1} (x_x_c) \leq r^2 \}$$, with $$P$$ being symmetric and positive definete matrix. 
+* *Euclidean Ball*: $$B(x_c, r) =$$ $$ \{ x \| \|x - x_c\| \leq r\} = \{x\| (x-x_c)^T (x-x_c) \leq r^2 \}$$,
+* *Elipsoid*: $$\zeta = $$ $$\{ x\| (x-x_c)^T P^{-1} (x-x_c) \leq r^2 \}$$, with $$P$$ being symmetric and positive definete matrix. 
   * $$P$$ determines how distorted the elipsoid is w.r.t. a ball. 
   * $$\sqrt{\lambda_i}$$ is the length of the semi-axis along each eigenvector of $$P$$, and $$\lambda_i$$ is the relevant eigenvalue. 
   * A ball is an elipsoid with $$P=I$$. 
