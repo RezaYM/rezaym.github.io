@@ -5,7 +5,7 @@ permalink: /cnvxopt/
 author_profile: true
 ---
 This page is my summary of [Book](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd an Lieven Vandenberghe on Convex Optimization. 
-### Convex Sets
+# Convex Sets
 ## Basic Definitions
 * *Affine Set*: A set $$C\subseteq \mathbb{R}^n$$ is affine if the line connecting two points in the set belongs to the set: If $$x_1, x_2 \in C$$, then, $$\theta x_1 + (1-\theta) x_2 \in C$$.
 
