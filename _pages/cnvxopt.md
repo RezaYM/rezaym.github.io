@@ -4,6 +4,7 @@ title: "Notes on Convex Optimization: "
 permalink: /cnvxopt/
 author_profile: true
 ---
+This page is my summary of [Book](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd an Lieven Vandenberghe on Convex Optimization. 
 ### Convex Sets
 ## Basic Definitions
 * *Affine Set*: A set $$C\subseteq \mathbb{R}^n$$ is affine if the line connecting two points in the set belongs to the set: If $$x_1, x_2 \in C$$, then, $$\theta x_1 + (1-\theta) x_2 \in C$$.
@@ -22,3 +23,5 @@ $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r
   * The Relative interior is considered w.r.t. the space restricted to affine hull of the set. The relative interior of a flat disk in 3 dimensional space is the disk itself (excluding the edge). 
   * The boundary of a set is considered w.r.t. the whole spece of $$\mathbb{R}^n$$. The boundary of a flat disk is the flat disk itself. 
   * The relative boundary is defined w.r.t. the affine hull. The relative boundary of a flat disk is the edge of the disk. 
+
+## Convex Sets and examples
