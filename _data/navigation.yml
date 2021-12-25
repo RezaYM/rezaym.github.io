@@ -17,3 +17,6 @@ main:
   
   - title: "Intro to Online Learning"
     url: /OL/    
+
+  - title: "Notes on Convex Opt"
+    url: /cnvxopt/    
