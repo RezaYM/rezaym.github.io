@@ -32,3 +32,5 @@ $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r
  * *Convex Cone*: if both convex and cone. 
  * *Conic hull* of set $$C$$: set of all conic combinations of points in $$C$$:
 $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dots, k\}$$
+* *hyperplane*: $$\{x\|a^T x = b\}$$.
+* *halfspace*: $$\{x\|a^T x \leq b\}$$
