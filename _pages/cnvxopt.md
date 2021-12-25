@@ -42,3 +42,8 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
   * $$\sqrt{\lambda_i}$$ is the length of the semi-axis along each eigenvector of $$P$$, and $$\lambda_i$$ is the relevant eigenvalue. 
   * A ball is an elipsoid with $$P=I$$. 
 * *Norm Cone*: for any norm, *Norm Cone* is defined as: $$C = \{(x,t)\| \|x\|\leq t\}$$.
+  * Note that x is in $$\mathbb{R}^{n-1}$$ and $$t$$ is the $$n^{\textit{th}}$$ dimension. 
+  * For instance, consider euclidean norm: norm cone is the set of flat disks which are mounted on top of each other, the radious of each cone is $$t$$. 
+  * It is also called *Lorentz cone* or *ice cream cone*. 
+* *Polyhedra*: intersection of finite number of hapspaces and hyperplanes. 
+$$\mathcal{P} = \{\}$$
