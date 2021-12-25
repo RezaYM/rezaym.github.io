@@ -25,3 +25,4 @@ $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r
   * The relative boundary is defined w.r.t. the affine hull. The relative boundary of a flat disk is the edge of the disk. 
 
 ## Convex Sets and examples
+* *Convex Set*: A set is convex if the segment of the line between any two points of the set lies inside the set. 
