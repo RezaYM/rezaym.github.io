@@ -17,3 +17,8 @@ author_profile: true
 * *Relative Interior* of set $$C$$: Points of $$C$$ which which belong to the intersection ball with radius $$r>0$$ centering that point and $$\mathbb{aff} C$$:
 $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r>0\},$$ 
 * *Relative Boundary* of set $$C$$: Closure of $$C \backslash \mathbb{relint} C$$.
+* Notes: 
+  * Interior of a set is considered w.r.t. the whole spece of $$\mathbb{R}^n$$. The interior of a flat disk in 3 dimensional space is empty.
+  * The Relative interior is considered w.r.t. the space restricted to affine hull of the set. The relative interior of a flat disk in 3 dimensional space is the disk itself (excluding the edge). 
+  * The boundary of a set is considered w.r.t. the whole spece of $$\mathbb{R}^n$$. The boundary of a flat disk is the flat disk itself. 
+  * The relative boundary is defined w.r.t. the affine hull. The relative boundary of a flat disk is the edge of the disk. 
