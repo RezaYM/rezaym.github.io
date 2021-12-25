@@ -16,3 +16,4 @@ author_profile: true
   * $$C = \{x \in \mathbb{R}^2 \| x_1^2 + x_2^2 = 1\}$$: its affine hull is all of $$\mathbb{R}^2$$ and its affine dimension is 2. 
 * *Relative Interior* of set $$C$$: Points of $$C$$ which which belong to the intersection ball with radius $$r>0$$ centering that point and $$\mathbb{aff} C$$:
 $$\mathbb{relint} C = \{x \in C \| B(x,r) \cap \mathbb{aff}C \text{ for some } r>0\},$$ 
+* *Relative Boundary* of set $$C$$: Closure of $$C \backslash \mathbb{relint} C$$.
