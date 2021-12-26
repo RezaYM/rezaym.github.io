@@ -48,4 +48,6 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
 * *Polyhedra*: intersection of finite number of hapspaces and hyperplanes. 
 $$\mathcal{P} = \{x \| a_j^T x \leq  b_j, j= 1, \dots, m, c_j^T x = d_j, j=1, \dots, p\}$$.
 * *Simplexes*: Assume $$k+1$$ points, $$v_0, v_1, \dots, v_k$$ that are affinely independent: $$v_1-v_0, v_2 - v_0, \dots, v_k - v_0$$ are linearly independent. Simplex: 
-$$\mathbb{conv} \{v_0, \dots, v_k\} = \{\theta_0 v_0 + \dots + \theta_k v_k \| \mathbb{\theta} > 0, \sum_{i=0}^k \theta_k =1\}$$
+$$\mathbb{conv} \{v_0, \dots, v_k\} = \{\theta_0 v_0 + \dots + \theta_k v_k \| \mathbb{\theta} \geq 0, \sum_{i=0}^k \theta_i =1\}$$. Examples: *Unit Simplex*, *Probability Simplex*. 
+* Set of *Symmetric Matrices*: $$\mathbb{S}^n = \{X \in \mathbb{R}^{n \times n} \| X \succeq 0\}$$,
+* Set of *positive semidefinite matrices*: $$ \mathbb{S}<sub>+<\sub>  $$
