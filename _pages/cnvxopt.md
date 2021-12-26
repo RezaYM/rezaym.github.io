@@ -4,7 +4,7 @@ title: "Notes on Convex Optimization: "
 permalink: /cnvxopt/
 author_profile: true
 ---
-This page is my summary of [Book](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd an Lieven Vandenberghe on Convex Optimization. 
+This page is my summary of wonderful [Book](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd an Lieven Vandenberghe on Convex Optimization. 
 # Convex Sets
 ## Basic Definitions
 * *Affine Set*: A set $$C\subseteq \mathbb{R}^n$$ is affine if the line connecting two points in the set belongs to the set: If $$x_1, x_2 \in C$$, then, $$\theta x_1 + (1-\theta) x_2 \in C$$.
@@ -62,5 +62,5 @@ $$f(S) = \{f(x) \| x \in S\}$$
   * The inverse image of $$S$$ under $$f$$ is also convex: 
 $$f^{-1}(S) = \{x \| f(x) \in S\}$$.
   * Projection of convex set onto some of its coordinates is convex, 
-  * **Notes on an example**: Consider this Linear Matrix Inequality: $$x_1 A_1 + \dots + x_n A_n \preceq B$$, with $$A_i , B \in \mathbb{S}^m$$. Prove that set of points $$x$$ satisfying this matrix inequality is convex. Think yourself then [check](https://web.stanford.edu/~boyd/cvxbook/) your proof. lets
+  * **Notes on an example**: Consider this Linear Matrix Inequality: $$x_1 A_1 + \dots + x_n A_n \preceq B$$, with $$A_i , B \in \mathbb{S}^m$$. Prove that set of points $$x$$ satisfying this matrix inequality is convex. Think yourself then [check](https://web.stanford.edu/~boyd/cvxbook/) your proof. 
 
