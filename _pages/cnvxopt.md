@@ -46,4 +46,6 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
   * For instance, consider euclidean norm: norm cone is the set of flat disks which are mounted on top of each other, the radious of each cone is $$t$$. 
   * It is also called *Lorentz cone* or *ice cream cone*. 
 * *Polyhedra*: intersection of finite number of hapspaces and hyperplanes. 
-$$\mathcal{P} = \{x \| a_j^T x \leq  \}$$
+$$\mathcal{P} = \{x \| a_j^T x \leq  b_j, j= 1, \dots, m, c_j^T x = d_j, j=1, \dots, p\}$$.
+* *Simplexes*: Assume $$k+1$$ points, $$v_0, v_1, \dots, v_k$$ that are affinely independent: $$v_1-v_0, v_2 - v_0, \dots, v_k - v_0$$ are linearly independent. Simplex: 
+$$\mathbb{conv} \{v_0, \dots, v_k\} = \{\theta_0 v_0 + \dots + \theta_k v_k \| \mathbb{\theta} > 0, \sum_{i=0}^k \theta_k =1\}$$
