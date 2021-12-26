@@ -46,4 +46,4 @@ $$\{\theta_1 x_1 + \dots + \theta_k x_l \| x_i \in C, \theta_i \geq 0, i=1, \dot
   * For instance, consider euclidean norm: norm cone is the set of flat disks which are mounted on top of each other, the radious of each cone is $$t$$. 
   * It is also called *Lorentz cone* or *ice cream cone*. 
 * *Polyhedra*: intersection of finite number of hapspaces and hyperplanes. 
-$$\mathcal{P} = \{\}$$
+$$\mathcal{P} = \{x \| a_j^T x \leq  \}$$
