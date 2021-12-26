@@ -62,5 +62,5 @@ $$f(S) = \{f(x) \| x \in S\}$$
   * The inverse image of $$S$$ under $$f$$ is also convex: 
 $$f^{-1}(S) = \{x \| f(x) \in S\}$$.
   * Projection of convex set onto some of its coordinates is convex, 
-  * **Notes on an example**: Consider this Linear Matrix Inequality: $$x_1 A_1 + \dots + x_n A_n \preceq B$$, with $$A_i , B \in \mathbb{S}^m$$. Prove that set of points $$x$$ satisfying this matrix inequality is convex. Think yourself then [check](https://web.stanford.edu/~boyd/cvxbook/) your proof. 
+  * **Notes on an example**: Consider this Linear Matrix Inequality: $$x_1 A_1 + \dots + x_n A_n \preceq B$$, with $$A_i , B \in \mathbb{S}^m$$. Prove that set of points $$x$$ satisfying this matrix inequality is convex. Think yourself then [check](https://web.stanford.edu/~boyd/cvxbook/) your proof. lets
 
