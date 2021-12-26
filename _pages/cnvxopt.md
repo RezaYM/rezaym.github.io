@@ -54,5 +54,13 @@ $$\mathbb{conv} \{v_0, \dots, v_k\} = \{\theta_0 v_0 + \dots + \theta_k v_k \| \
 * Set of *positive matrices*: $$ \mathbb{S}^n$$ <sub>++</sub> $$= \{X \in \mathbb{R}^{n \times n} \| X \succ 0\}$$,
 
 ## Operations Preserving Convexity: 
-* Intersection: of possibly infinite convex sets is convex. 
+* *Intersection*: of possibly infinite convex sets is convex. 
+* *Affine function* mapping: 
+  * *Affine Function*: A function $$f:\mathbb{R}^n \longrightarrow \mathbb{R}^m$$ is affine if it is of linear form: $$f(x) = Ax + b$$, with $$A_{m\times n}$$, $$$b_{m\times 1}$. 
+  * If $$$S\subseteq \mathbb{R}^n$ is convex, its image under affine function is convex:
+$$f(S) = \{f(x) \| x \in S\}$$
+  * The inverse image of $$S$$ under $$f$$ is also convex: 
+$$f^{-1}(S) = \{x \| f(x) \in S\}$$.
+  * Projection of convex set onto some of its coordinates is convex, 
+  * 
 
