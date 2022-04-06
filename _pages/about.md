@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Reza Yousefi Maragheh, Senior Data Scientist at [Walmart Labs](https://www.linkedin.com/company/walmartglobaltech/about/)-Personalization Team. I got My Ph.D. in Industrial Engineering from University of Illinois Urbana-Champaign (UIUC). My Ph.D. thesis was on "Choice Modeling and Recommendation Optimization in Presence of Context Effects" supervised by Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
+I am Reza Yousefi Maragheh, Senior Data Scientist at [Walmart Labs](https://www.linkedin.com/company/walmartglobaltech/about/)-Personalization Team. I got My Ph.D. in Industrial Engineering (Operations Research and Data Analytics Track) from University of Illinois Urbana-Champaign (UIUC). My Ph.D. thesis was on "Choice Modeling and Recommendation Optimization in Presence of Context Effects" supervised by Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen).
 
 My Research interests:
   * Recommender Systems,
