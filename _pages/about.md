@@ -15,10 +15,11 @@ My Research interests:
   * Customer Intent Inference,
   * Optimization, Pricing, and Revenue Management.
 
-News:
-  * Dec 2023: We will present our Paper "**Seller-side Outcome Fairness in Online Marketplaces**" is accepted in NIPS 2023, [Link] (https://arxiv.org/pdf/2312.03253.pdf)-**Date**: Dec 15th, 2023 at New Orleans Ernest N. Morial Convention Center.
-  * Our Paper "Seller-side Outcome Fairness in Online Marketplaces" is accepted in NIPS 2023, [Link] (https://arxiv.org/pdf/2312.03253.pdf)
-  * Our Paper "Seller-side Outcome Fairness in Online Marketplaces" is accepted in NIPS 2023, [Link] (https://arxiv.org/pdf/2312.03253.pdf)
-  * Our Paper "Seller-side Outcome Fairness in Online Marketplaces" is accepted in NIPS 2023, [Link] (https://arxiv.org/pdf/2312.03253.pdf)
+## News:
+  * Dec 2023: We will present our Paper "**Seller-side Outcome Fairness in Online Marketplaces**" is presented at NIPS 2023, [Link](https://arxiv.org/pdf/2312.03253.pdf)-Authors:**Zikun Ye, Reza Yousefi Maragheh, Et al.**
+  * Dec 2023: "**LLM-TAKE: Theme-Aware Keyword Extraction Using Large Language Models**" is presented at IEEE Big Data 2023, [Link](https://arxiv.org/pdf/2312.00909.pdf). Authors: **Reza Yousefi Maragheh Et al.** 
+  * Nov 2023: Our Paper "**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**" is presented at ICDM 2023, [Link](https://arxiv.org/pdf/2310.17732.pdf). Authors: **Ramin Giahi, Reza Yousefi Maragheh Et al.** 
+  * June 2023:  
+  * June 2023: Our Paper "**LLM-Based Aspect Augmentations for Recommendation Systems**" is presented at ICML 2023, [Link](https://openreview.net/forum?id=bStpLVqv1H)
   * 
    
