@@ -22,5 +22,4 @@ My Research interests:
   * June 2023: Our paper, _LLM-Based Aspect Augmentations for Recommendation Systems_, is mentioned by Sumit Gupta, VP at Google: [link](https://www.linkedin.com/posts/sumitg_generativeai-activity-7091812917733429248-h-kM?utm_source=share&utm_medium=member_desktop)
   * June 2023: Our paper, _LLM-Based Aspect Augmentations for Recommendation Systems_, is mentioned by Dylan Patel, Technology Reviewer, and Consultant: [link](https://twitter.com/dylan522p/status/1685035692915843080)
   * June 2023: Our Paper "_LLM-Based Aspect Augmentations for Recommendation Systems_" is presented at ICML 2023, [Link](https://openreview.net/forum?id=bStpLVqv1H). Authors: **Reza Yousefi Maragheh Et al.**
-  * 
    
