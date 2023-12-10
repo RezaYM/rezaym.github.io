@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* **Ph.D.** Industrial Engineering; Track: Data Analytics; University of Ilinois at Urbana-Champaign, May 2021 (expected).
-* **M.S.** Industrial Engineering, Sharif University of Technology, 2015.
-* **Ph.D** Industrial Engineering, University of Tehran, 2013.
+* **Ph.D.** Operations Research; Track: Data Analytics; the University of Ilinois at Urbana-Champaign, May 2021 (expected).
+* **M.Sc.** Industrial Engineering, Sharif University of Technology, 2015.
+* **B.Sc** Industrial Engineering, University of Tehran, 2013.
 
 ### Work Experience (also check-out [here](https://www.linkedin.com/in/reza-yousefi-maragheh/) )
 * Sr Data Scientist at Walmart Labs (Aug 2021- Present)/Data Scientist(Sep 2020-May 2021)
