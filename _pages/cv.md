@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* **Ph.D.** Operations Research; Track: Data Analytics; the University of Ilinois at Urbana-Champaign, May 2021.
+* **Ph.D.** Operations Research; Track: Data Analytics; the University of Ilinois at Urbana-Champaign, 2021.
 * **M.Sc.** Industrial Engineering, Sharif University of Technology, 2015.
 * **B.Sc** Industrial Engineering, University of Tehran, 2013.
 
@@ -24,7 +24,7 @@ redirect_from:
 
 
 ### Research Experience (also check-out [here](https://rezaym.github.io/Research/) )
-* Research Assistant at UIUC ( Aug 2015 - July 2021):
+* Research Assistant at UIUC ( Aug 2016 - July 2021):
   * Choice Modeling and recommendation Optimization in Presence of Context Effects,
   * Optimization-based imprevement of Recommender Systems,
   * Dynamic Learning of Customer Choice Models,
