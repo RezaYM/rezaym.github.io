@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* **Ph.D.** Operations Research; Track: Data Analytics; the University of Ilinois at Urbana-Champaign, May 2021 (expected).
+* **Ph.D.** Operations Research; Track: Data Analytics; the University of Ilinois at Urbana-Champaign, May 2021.
 * **M.Sc.** Industrial Engineering, Sharif University of Technology, 2015.
 * **B.Sc** Industrial Engineering, University of Tehran, 2013.
 
 ### Work Experience (also check-out [here](https://www.linkedin.com/in/reza-yousefi-maragheh/) )
-* Sr Data Scientist at Walmart Labs (Aug 2021- Present)/Data Scientist(Sep 2020-May 2021)
+* Staff/Sr Data Scientist at Walmart Labs (Aug 2021- Present)/Data Scientist(Sep 2020-May 2021)
   * Recommender System Optimization,
   * Customer Intent Inference,
   * Revenue per Click Optimization,
@@ -66,4 +66,3 @@ See [here](https://rezaym.github.io/teaching/) for details.
 ### Service and leadership
 * Member of Engineering Graduate Advisory Committee ([EGSAC](http://publish.illinois.edu/engr-egsac/2018-2019-committee-members/)) at Grainger College of Engineering, Aug 2018- June 2019.
 * Co-founder of Pouyandegan DaneshPajooh Mehr, May 2014-Present. Pouyandegan DaneshPajooh Mehr is an NGO that focuses on providing educational and financial support for talented children with a geographical focus on the Northwest of Iran.
-* Member of Central Council at Scientific Association of Industrial Engineering Department at University of Tehran, Sep 2010-Sep 2010. 
