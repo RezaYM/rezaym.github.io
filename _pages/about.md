@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Reza Yousefi Maragheh, a Staff Data Scientist working at [Walmart Labs'](https://www.linkedin.com/company/walmartglobaltech/about/)-Personalization Team. I got My Ph.D from the University of Illinois Urbana-Champaign (UIUC)-Grainger College of Engineering. My Ph.D. thesis was on "Choice Modeling and Recommendation Optimization in Presence of Context Effects" supervised by Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen). My Research interests are Recommender Systems, Information Retrieval, Customer Intent Inference, and Optimization. In the past two years, I am specifically involved in exploring/implementing large-scale language agent pipelines in classic ecormmerce tasks.  
+I am Reza Yousefi Maragheh, a Staff Data Scientist working at [Walmart Labs'](https://www.linkedin.com/company/walmartglobaltech/about/)-Personalization Team. I got My Ph.D from the University of Illinois Urbana-Champaign (UIUC)-Grainger College of Engineering. My Ph.D. thesis was on "Choice Modeling and Recommendation Optimization in Presence of Context Effects" (check it out [link](https://www.ideals.illinois.edu/items/121110)) supervised by Professor [Xin Chen](https://ise.illinois.edu/directory/profile/xinchen). My Research interests are Recommender Systems, Information Retrieval, Customer Intent Inference, and Optimization. In the past two years, I am specifically involved in exploring/implementing large-scale language agent pipelines in classic ecormmerce tasks.  
 
 ## News:
   * April 2025: We are invited to run an Q&A session at Google Next Conference, at Las Vegas, [link](https://cloud.withgoogle.com/next/25)
