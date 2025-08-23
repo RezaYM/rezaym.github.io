@@ -1,22 +1,4 @@
 # main links links
 main:
-  - title: "Research"
-    url: /Research/
-    
-  - title: "Projects"
-    url: /projects/
 
-  - title: "Teaching and Lab Sessions"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Intro to DL and ML"
-    url: /DLML/
   
-  - title: "Intro to Online Learning"
-    url: /OL/    
-
-  - title: "Notes on Convex Opt"
-    url: /cnvxopt/    
