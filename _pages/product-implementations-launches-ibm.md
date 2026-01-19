@@ -4,6 +4,6 @@ title: "Intent Base Model"
 author_profile: true
 ---
 
-# Intent Base Model
+This product is implemented in the Post-add-to-cart page of Walmart. 
 
-Details for the Intent Base Model implementation will go here.
+
