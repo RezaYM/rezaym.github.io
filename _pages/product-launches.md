@@ -5,3 +5,7 @@ author_profile: true
 ---
 
 Welcome to the Product Implementations/Launches page. Add upcoming and recent releases here.
+
+## Implementations
+
+- [Intent Base Model](/product-implementations-launches/ibm/)
