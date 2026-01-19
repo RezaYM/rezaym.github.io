@@ -1,7 +1,7 @@
 ---
 permalink: /product-launches/
-title: "Product Launches"
+title: "Product Implementations/Launches"
 author_profile: true
 ---
 
-Welcome to the Product Launches page. Add upcoming and recent releases here.
+Welcome to the Product Implementations/Launches page. Add upcoming and recent releases here.
