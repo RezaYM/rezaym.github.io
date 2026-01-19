@@ -1,6 +1,6 @@
 ---
-permalink: /product-launches/
-title: "Product Implementations/Launches"
+permalink: /product-implementations-launches/
+title: "Implementations and Product Launches"
 author_profile: true
 ---
 
