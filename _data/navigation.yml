@@ -1,3 +1,6 @@
-# main links links
+# main links
 main:
-  - title: "Applied Research" url: /research/
+  - title: "About Me"
+    url: /
+  - title: "Applied Research"
+    url: /Research/
