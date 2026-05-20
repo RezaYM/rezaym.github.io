@@ -14,24 +14,67 @@ author_profile: true
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
+# Research
 
-### Interests:
-* Recommendation Systems,
-* Pricing and Revenue Management,
-* Online Learning and Multi-Armed Bandit Settings,
-* Application of Deep Learning in Revenue Management Settings,
-* Optimization of Deep Neural Nets.
+## Education
 
-### Recommendation Systems:
-* R. Y. Maragheh, X. Chen, J. M. Davis, Jason Cho, Sushant Kumar, *Choice Modeling and Assortment Optimization in the Presence of Context Effects*, Under submission to Management Science.
-* R. Y. Maragheh, X. Chen, Luyi Ma, Chuanwei Ruan, Jason Cho, Sushant Kumar, *Set Dependent Ranking Model: Evidence For Contextual Click; Patterns In Walmart.com Data*, Under Submission to SIGIR2020.
-* R. Y. Maragheh, [*Assortment Optimization/Competition under Context Effects*](https://www.abstractsonline.com/pp8/#!/9022/session/2572),  Session at Informs 2020.
-* R. Y. Maragheh, A. Chronopoulou, J. Davis, [*A Customer Choice Model for Estimating the Halo Effect*](https://arxiv.org/abs/1805.01603), Presented at 2017 Informs Annual Meeting, Houston, Texas, 2017.
+**University of Illinois Urbana-Champaign** — Urbana, IL, USA
+*Ph.D., 2021*
 
-### Machine learning and Deep Learning
-* R.Y. Maragheh, Easing Optimization of Ackley Function with overparameterization Using Neural Nets, Working Paper.
+- **Thesis:** Choice modeling and recommendation optimization in presence of context effects — [[Link]](https://www.ideals.illinois.edu/items/121110)
+- **Advisor:** Professor Xin Chen — [[Link]](https://www.isye.gatech.edu/users/xin-chen)
+- **Honors / Awards:** (i) Received full funding from the Walmart Labs Personalization team based on direct applicability of thesis research. (ii) Won the Hansen Fellowship, awarded to bright graduate students.
 
-### Policy Design
-* M. Modarres, M. Feizabadi, and R. Y. Maragheh, [*A Dynamic Programming Approach forInvestment Problem with Stochastic
-Number of Investment Chances*](https://www.researchgate.net/publication/260144937_A_dynamic_programming_approach_for_investment_problem_with_stochastic_number_of_investment_chances), in Tenth International Industrial Engineering Conference, Tehran, Iran, 2014.
-* *Stackelberg Game Formulation and Equilibrium of The Interaction Between Shareholders and Employees on Issuing Employee Stock Options*, Master Thesis. [Abstract](https://www.researchgate.net/publication/279285970_Stackelberg_Game_Formulation_and_Equilibrium_of_The_Interaction_Between_Shareholders_and_Employees_on_Issuing_Employee_Stock_Options)
+**Sharif University of Technology** — Tehran, Iran
+*M.Sc., 2015* — Primary research area: Financial Engineering, Dynamic Programming
+
+---
+
+## Selected Applied Research
+
+*Based on A/B tests and product launches.*
+
+**Role legend:** [L] Lead Author · [CL] Co-Lead Author · [CA] Corresponding Author · [C] Contributing Author
+
+### Agentic Solutions
+
+- Perspectives on agentic RecSys — under review at [ACM ToRS](https://arxiv.org/pdf/2507.02097) — **[L]**
+- Reducing output variance in multi-agentic evaluation — [NeurIPS25-W](https://openreview.net/pdf?id=uSijBMsVqW) — **[L]**
+- Multi-agentic evaluation through crowd-sourcing agents — [NeurIPS25-W](https://arxiv.org/pdf/2511.03051) — **[C]**
+- Explanation generation for RecSys — [ICML25-W](https://arxiv.org/pdf/2506.17765) — **[CL]**
+
+### Retrieval, RAG, and Language/Vision Generation (workshops)
+
+- Text generation with user implicit feedback — [NeurIPS25-W](https://arxiv.org/pdf/2510.01523v1) — **[CA, CL]**
+- Personalized recommendation with agentic RAG — [SIGIR25-W](https://arxiv.org/pdf/2506.21931) — **[L]**
+- Geometric RAG for layout design — [SIGIR25-W](https://arxiv.org/pdf/2506.21934) — **[L]**
+- Abstractive keyword extraction — [IEEE BigData23](https://arxiv.org/pdf/2312.00909) — **[L]**
+
+### Algorithms
+
+- User Inference and Combinatorial Assortment Optimization — under review at [MSOM](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747354); also covered in my [Ph.D. Thesis](https://www.ideals.illinois.edu/items/121110) — **[L]**
+
+### ML/DL for Industrial IR / RecSys (workshops)
+
+- LLM-based embeddings for recommendation — [ICML23-W](https://openreview.net/pdf?id=bStpLVqv1H) — **[L]**
+- Deals recommendation based on prospect theory — [IEEE BigData22](https://ieeexplore.ieee.org/abstract/document/10020542) — **[L]**
+- GNN-based similar item recommendation — [ICDM23](https://arxiv.org/pdf/2310.17732) — **[C]**
+- Seller-side fairness in online marketplaces — [NeurIPS23-W](https://arxiv.org/pdf/2312.03253) — **[CA]**
+
+---
+
+## Tutorials & Talks
+
+- Tutorial on Agentic RecSys at [ACM RecSys25](https://dl.acm.org/doi/epdf/10.1145/3705328.3748008) and [SIGIR26](https://sigir2026.org/en-AU/pages/program/accepted-tutorials)
+- Invited talk on Modern Topics in Recommender Systems at [TU Wien](https://recsys-lab.at/rsss2025/recordings/)
+
+---
+
+## US Patents
+
+1. [Document Theme Extraction](https://patents.google.com/patent/US20250245449A1)
+2. [Similar Item Recommendation](https://patents.google.com/patent/US20250245479A1)
+3. [User Representations](https://patents.google.com/patent/US20240242069A1)
+4. [Hybrid Optimization](https://patents.google.com/patent/US20240256874A1/)
+
+*Four additional patents pending.*
