@@ -25,9 +25,6 @@ author_profile: true
 - **Advisor:** Professor Xin Chen — [[Link]](https://www.isye.gatech.edu/users/xin-chen)
 - **Honors / Awards:** (i) Received full funding from the Walmart Labs Personalization team based on direct applicability of thesis research. (ii) Won the Hansen Fellowship, awarded to bright graduate students.
 
-**Sharif University of Technology** — Tehran, Iran
-*M.Sc., 2015* — Primary research area: Financial Engineering, Dynamic Programming
-
 ---
 
 ## Selected Applied Research
