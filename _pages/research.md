@@ -66,6 +66,128 @@ author_profile: true
 
 ---
 
+<!-- ============================================================
+     Talks map — self-contained, no API key required.
+     Drop this whole block into your Markdown page, or save it as
+     talks-map.html and embed it with an <iframe>. See notes below.
+     ============================================================ -->
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="talks-map-wrapper">
+  <div id="talks-map"></div>
+  <div class="talks-legend">
+    <span><i class="dot past"></i> Past</span>
+    <span><i class="dot upcoming"></i> Upcoming</span>
+  </div>
+</div>
+
+<style>
+  #talks-map-wrapper {
+    position: relative;
+    max-width: 820px;
+    margin: 1.5rem auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  #talks-map {
+    height: 460px;
+    width: 100%;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    z-index: 0;
+  }
+  .talks-legend {
+    position: absolute;
+    bottom: 14px;
+    right: 14px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    padding: 7px 11px;
+    font-size: 12.5px;
+    color: #333;
+    display: flex;
+    gap: 14px;
+    z-index: 500;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  }
+  .talks-legend .dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+  .talks-legend .dot.past { background: #2c5f8a; }
+  .talks-legend .dot.upcoming { background: #c0631f; }
+
+  .talk-popup { font-size: 13px; line-height: 1.45; }
+  .talk-popup .venue { font-weight: 600; color: #1a1a1a; }
+  .talk-popup .place { color: #555; }
+  .talk-popup .date { color: #888; font-size: 12px; }
+
+  .talk-pin {
+    width: 26px;
+    height: 26px;
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg);
+    border: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .talk-pin span {
+    transform: rotate(45deg);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .talk-pin.past { background: #2c5f8a; }
+  .talk-pin.upcoming { background: #c0631f; }
+</style>
+
+<script>
+  (function () {
+    var talks = [
+      { n: 1, venue: "RecSys 2025", place: "Prague, Czech Republic", date: "Sep 2025", lat: 50.0755, lng: 14.4378, status: "past" },
+      { n: 2, venue: "TU Wien", place: "Vienna, Austria", date: "Aug 2025", lat: 48.2082, lng: 16.3738, status: "past" },
+      { n: 3, venue: "Richard A. Chaifetz School of Business", place: "St. Louis, MO, USA", date: "Apr 2026", lat: 38.6270, lng: -90.1994, status: "past" },
+      { n: 4, venue: "SIGIR 2026", place: "Melbourne, Australia", date: "Jul 2026", lat: -37.8136, lng: 144.9631, status: "upcoming" }
+    ];
+
+    var map = L.map("talks-map", { scrollWheelZoom: false, worldCopyJump: true });
+
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      maxZoom: 19
+    }).addTo(map);
+
+    var bounds = [];
+    talks.forEach(function (t) {
+      var icon = L.divIcon({
+        className: "",
+        html: '<div class="talk-pin ' + t.status + '"><span>' + t.n + "</span></div>",
+        iconSize: [26, 26],
+        iconAnchor: [13, 26],
+        popupAnchor: [0, -26]
+      });
+      L.marker([t.lat, t.lng], { icon: icon })
+        .addTo(map)
+        .bindPopup(
+          '<div class="talk-popup"><div class="venue">' + t.venue +
+          '</div><div class="place">' + t.place +
+          '</div><div class="date">' + t.date + "</div></div>"
+        );
+      bounds.push([t.lat, t.lng]);
+    });
+
+    map.fitBounds(bounds, { padding: [50, 50] });
+  })();
+</script>
+
 ## US Patents
 
 1. [Document Theme Extraction](https://patents.google.com/patent/US20250245449A1)
