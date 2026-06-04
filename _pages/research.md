@@ -24,7 +24,7 @@ author_profile: true
 
 ### Agentic Solutions
 
-- Perspectives on agentic RecSys — under review at [ACM ToRS](https://arxiv.org/pdf/2507.02097), **[L]**
+- Perspectives on agentic RecSys, under review at [ACM ToRS](https://arxiv.org/pdf/2507.02097), **[L]**
 - Reducing output variance in multi-agentic evaluation, [NeurIPS25-W](https://openreview.net/pdf?id=uSijBMsVqW), **[L]**
 - Multi-agentic evaluation through crowd-sourcing agents, [NeurIPS25-W](https://arxiv.org/pdf/2511.03051), **[C]**
 - Explanation generation for RecSys, [ICML25-W](https://arxiv.org/pdf/2506.17765), **[CL]**
@@ -33,7 +33,7 @@ author_profile: true
 
 - Text generation with user implicit feedback, [NeurIPS25-W](https://arxiv.org/pdf/2510.01523v1), **[CA, CL]**
 - Personalized recommendation with agentic RAG, [SIGIR25-W](https://arxiv.org/pdf/2506.21931), **[L]**
-- Geometric RAG for layout design, [SIGIR25-W](https://arxiv.org/pdf/2506.21934), **[L]**
+- Geometric RAG for layout design, [SIGIR25-W](https://arxiv.org/pdf/2506.21934), **[C]**
 - Abstractive keyword extraction, [IEEE BigData23](https://arxiv.org/pdf/2312.00909), **[L]**
 
 ### Algorithms
