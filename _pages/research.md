@@ -24,7 +24,7 @@ author_profile: true
 
 ### Agentic Solutions
 
-- Perspectives on agentic RecSys, under review at [ACM ToRS](https://arxiv.org/pdf/2507.02097), **[L]**
+- Perspectives on agentic RecSys, Accepted Aug 2026, [ACM ToRS](https://arxiv.org/pdf/2507.02097), **[L]**
 - Reducing output variance in multi-agentic evaluation, [NeurIPS25-W](https://openreview.net/pdf?id=uSijBMsVqW), **[L]**
 - Multi-agentic evaluation through crowd-sourcing agents, [NeurIPS25-W](https://arxiv.org/pdf/2511.03051), **[C]**
 - Explanation generation for RecSys, [ICML25-W](https://arxiv.org/pdf/2506.17765), **[CL]**
@@ -38,7 +38,7 @@ author_profile: true
 
 ### Algorithms
 
-- User Inference and Combinatorial Assortment Optimization, under review at [MSOM](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747354); also covered in my [Ph.D. Thesis](https://www.ideals.illinois.edu/items/121110), **[L]**
+- User Inference and Combinatorial Assortment Optimization, Accepted Aug 2026, [MSOM](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747354); also covered in my [Ph.D. Thesis](https://www.ideals.illinois.edu/items/121110), **[L]**
 
 ### ML/DL for Industrial IR / RecSys (workshops)
 
